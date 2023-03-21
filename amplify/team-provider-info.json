@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-calculator-staging-45912-authRole",
+      "UnauthRoleArn": "arn:aws:iam::778457338040:role/amplify-calculator-staging-45912-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::778457338040:role/amplify-calculator-staging-45912-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-calculator-staging-45912-deployment",
+      "UnauthRoleName": "amplify-calculator-staging-45912-unauthRole",
+      "StackName": "amplify-calculator-staging-45912",
+      "StackId": "arn:aws:cloudformation:us-east-1:778457338040:stack/amplify-calculator-staging-45912/9fe653f0-c549-11ed-9480-0eaeb97704dd",
+      "AmplifyAppId": "d3q3pxhsc7b4ks"
+    }
+  }
+}

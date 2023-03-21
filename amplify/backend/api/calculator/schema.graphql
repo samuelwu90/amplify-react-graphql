@@ -1,0 +1,16 @@
+enum YesNo {
+  YES
+  NO
+}
+
+type Input @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  age: Int
+  gleason: YesNo
+  histology: YesNo
+  visceral_metastases: YesNo
+  family_history: YesNo
+  bone_metastases: YesNo
+  ln_metastases: YesNo
+}
+ 
